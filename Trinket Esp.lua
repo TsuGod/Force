@@ -1,6 +1,4 @@
 local toggle = nil
-local keyespon = "F1" -- key to turn esp on
-local keyespoff = "F2" -- key to turn esp off
 
 local function espon()
 while wait() do
